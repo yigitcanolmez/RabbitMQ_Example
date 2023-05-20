@@ -1,0 +1,17 @@
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/bin/Debug/net7.0/Learning.Publisher
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/bin/Debug/net7.0/Learning.Publisher.deps.json
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/bin/Debug/net7.0/Learning.Publisher.runtimeconfig.json
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/bin/Debug/net7.0/Learning.Publisher.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/bin/Debug/net7.0/Learning.Publisher.pdb
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.csproj.AssemblyReference.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.AssemblyInfoInputs.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.AssemblyInfo.cs
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.csproj.CoreCompileInputs.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/refint/Learning.Publisher.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.pdb
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.genruntimeconfig.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/ref/Learning.Publisher.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Publisher/Learning.Publisher/obj/Debug/net7.0/Learning.Publisher.csproj.CopyComplete

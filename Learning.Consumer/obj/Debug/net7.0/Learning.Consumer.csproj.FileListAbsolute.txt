@@ -1,0 +1,17 @@
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/bin/Debug/net7.0/Learning.Consumer
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/bin/Debug/net7.0/Learning.Consumer.deps.json
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/bin/Debug/net7.0/Learning.Consumer.runtimeconfig.json
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/bin/Debug/net7.0/Learning.Consumer.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/bin/Debug/net7.0/Learning.Consumer.pdb
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.csproj.AssemblyReference.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.AssemblyInfoInputs.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.AssemblyInfo.cs
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.csproj.CoreCompileInputs.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/refint/Learning.Consumer.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.pdb
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.genruntimeconfig.cache
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/ref/Learning.Consumer.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/yigitcanolmez/Desktop/RabbitMQ_Learning/Learning.Consumer/Learning.Consumer/obj/Debug/net7.0/Learning.Consumer.csproj.CopyComplete
